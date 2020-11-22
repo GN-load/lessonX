@@ -1,0 +1,18 @@
+.nameFilm {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.divPosters {
+    width: 500px;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.pop {
+    color: red;
+    font-weight: 700;
+}
